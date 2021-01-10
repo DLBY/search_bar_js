@@ -1,0 +1,19 @@
+{
+  "firstName": "Jean",
+  "lastName": "Dupont",
+  "email": "jean.dupont@gmail.com",
+  "birthDate": "12/01/1980",
+  "isMajor": true,
+  "age": 40,
+  "tmp": null,
+  "children": [
+      {
+          "firstName": "Paul",
+          "lastName": "Dupont"
+      },
+      {
+          "firstName": "Lea",
+          "lastName": "Dupont"
+      }
+  ]
+}
